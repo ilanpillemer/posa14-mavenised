@@ -80,3 +80,14 @@ proguard/
 # Temp files for KDE and other Editor's 
 *~
 
+/assignments/.DS_Store
+/assignments/assignment0.5/.DS_Store
+/assignments/assignment0.5/src/.DS_Store
+/assignments/assignment0.5/target/
+/assignments/assignment0/.DS_Store
+/assignments/assignment0/src/.DS_Store
+/assignments/assignment0/target/
+/assignments/assignment1/.DS_Store
+/assignments/assignment1/src/.DS_Store
+/assignments/assignment1/target/
+/.DS_Store
